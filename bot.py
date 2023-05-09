@@ -39,7 +39,7 @@ while True:
     if procex():
         print("proces istnieje")
         start_harvesting()
-        time.sleep(10800)
+        time.sleep(3600)
     else:
         print("proces nieistnieje")
-        time.sleep(60)
+        time.sleep(480)

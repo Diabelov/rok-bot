@@ -1,1 +1,1 @@
-## chuj wie jak to zrobić
+## działa
